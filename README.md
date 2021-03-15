@@ -16,7 +16,7 @@ Bye
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=CharieBlastX7&show_icons=true&theme=dark" width="500"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharieBlastX7&show_icons=true&theme=dark" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&show_icons=true&theme=dark" /></td>
 </tr>
 
 <!--
