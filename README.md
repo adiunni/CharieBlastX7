@@ -13,6 +13,12 @@ Thanks for visiting my page. I hope I haven't wasted your time making you read t
 
 Bye
 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=CharieBlastX7&show_icons=true&theme=radical" width="500"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharieBlastX7&show_icons=true&theme=radical" /></td>
+</tr>
+
 <!--
 **CharieBlastX7/CharieBlastX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
