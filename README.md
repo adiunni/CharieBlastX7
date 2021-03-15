@@ -19,6 +19,9 @@ Bye
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharieBlastX7&show_icons=true&theme=dark" /></td>
 </tr>
 
+# My favourite project yet
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CharieBlastX7&repo=CryptoCRIT](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CharieBlastX7/CharieBlastX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
