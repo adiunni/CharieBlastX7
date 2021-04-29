@@ -9,7 +9,7 @@ It has been a long time since I have contributed to something. Please help
 </tr>
 
 # My favourite project yet
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CharieBlastX7&repo=CryptoCRIT)](https://github.com/CharieBlastX7/CryptoCRIT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=CryptoCRIT)](https://github.com/rgab1508/CryptoCRIT)
 
 <!--
 **CharieBlastX7/CharieBlastX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
