@@ -9,7 +9,7 @@ It has been a long time since I have contributed to something. Please help
 </tr>
 
 # My favourite projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=CryptoCRIT)](https://github.com/CharieBlastX7/logic_audio-files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CharieBlastX7&repo=logic_audio-files)](https://github.com/CharieBlastX7/logic_audio-files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CharieBlastX7&repo=OpenStore)](https://github.com/CharieBlastX7/OpenStore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=FACES-21)](https://github.com/rgab1508/FACES-21)
 
