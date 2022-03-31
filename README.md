@@ -2,11 +2,14 @@
 
 I make music, study for exams, play badminton, go to the gym and codes ocassionally.
 
-My socials
-[My Twitter](https://twitter.com/ad1unn1)
-[My soundcloud](https://soundcloud.com/user-803509413)
-[Instagram](https://instagram.com/adiunniistaken)
-[My Website](https://adiunni.tech)
+Visit these links as well
+<br>[:baby_chick: My Twitter](https://twitter.com/ad1unn1)
+<br>[:sound: My soundcloud](https://soundcloud.com/user-803509413)
+<br>[:tv: Instagram](https://instagram.com/adiunniistaken)
+<br>[:bowtie: My Website](https://adiunni.tech)
+<br>[:envelope: Email](mailto:adiunni@hotmail.com)
+
+
 
 <table>
 <tr>
@@ -19,3 +22,6 @@ My socials
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=OpenStore)](https://github.com/rgab1508/OpenStore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=ETAMAX-22)](https://github.com/rgab1508/ETAMAX-22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=FACES-21)](https://github.com/rgab1508/FACES-21)
+
+<br>
+Thanks  
