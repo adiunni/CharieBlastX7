@@ -1,6 +1,12 @@
 ## Bonjour mes amis
 
-It has been a long time since I have contributed to something. Please help
+I make music, study for exams, play badminton, go to the gym and codes ocassionally.
+
+My socials
+[My Twitter](https://twitter.com/ad1unn1)
+[My soundcloud](https://soundcloud.com/user-803509413)
+[Instagram](https://instagram.com/adiunniistaken)
+[My Website](https://adiunni.tech)
 
 <table>
 <tr>
@@ -10,20 +16,6 @@ It has been a long time since I have contributed to something. Please help
 
 # My favourite projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CharieBlastX7&repo=logic_audio-files)](https://github.com/CharieBlastX7/logic_audio-files)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CharieBlastX7&repo=OpenStore)](https://github.com/CharieBlastX7/OpenStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=OpenStore)](https://github.com/rgab1508/OpenStore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=ETAMAX-22)](https://github.com/rgab1508/ETAMAX-22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=FACES-21)](https://github.com/rgab1508/FACES-21)
-
-<!--
-**CharieBlastX7/CharieBlastX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
