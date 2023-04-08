@@ -15,6 +15,7 @@ Visit these links as well
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=CharieBlastX7&show_icons=true&theme=dark" width="500"></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharieBlastX7&show_icons=true&theme=dark&langs_count=8" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CharieBlastX7&theme=tokyonight" /></td>
 </tr>
 
 # My favourite projects
