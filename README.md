@@ -1,12 +1,12 @@
 ## Bonjour mes amis
 
-I make music, study for exams, play badminton, go to the gym and codes ocassionally.
+Music, Gym, Badminton and Code. 
 
 Visit these links as well
 <br>[:baby_chick: My Twitter](https://twitter.com/ad1unn1)
 <br>[:sound: My soundcloud](https://soundcloud.com/user-803509413)
 <br>[:tv: Instagram](https://instagram.com/adiunniistaken)
-<br>[:bowtie: My Website](https://adiunni.tech)
+<br>[:bowtie: My Website](https://adiunni.tech) (OUTDATED: PLEASE DON'T VISIT)
 <br>[:envelope: Email](mailto:adiunni@hotmail.com)
 
 
